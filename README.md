@@ -1,8 +1,10 @@
+english translation via google, fork of @adeliktasde from https://github.com/TomAPU/schemeflood
+
 # schemeflood
-schemeflood 技术的复现，多加了几个国内的软件的指纹
+The schemeflood technology is reproduced, and a few more domestic software fingerprints are added
 
-[在线测试](https://tomapu.github.io/schemeflood/)
+[Online test](https://tomapu.github.io/schemeflood/)
 
-经过一些反馈，准确度不够高，并且不支持Safari，而FingerprintJS给出的[demo](https://schemeflood.com/)是支持的
+After some feedback, the accuracy is not high enough, and Safari is not supported, and the [demo](https://schemeflood.com/) given by FingerprintJS is supported
 
-这个项目的实现比FingerprintJS的demo的实现代码更简单，更方便大家学习，但是想要搞清楚更多细节，提升该技术的健壮性请参考[FingerprintJS的代码](https://github.com/fingerprintjs/external-protocol-flooding)
+The implementation of this project is simpler than the implementation code of the FingerprintJS demo, and it is more convenient for everyone to learn, but if you want to clarify more details and improve the robustness of the technology, please refer to [FingerprintJS code](https://github.com/ fingerprintjs/external-protocol-flooding) 
